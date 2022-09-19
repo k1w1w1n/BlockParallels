@@ -1,0 +1,15 @@
+[Rule]
+download.parallels.com,REJECT
+update.parallels.com,REJECT
+desktop.parallels.com,REJECT
+download.parallels.com.cdn.cloudflare.net,REJECT
+update.parallels.com.cdn.cloudflare.net,REJECT
+desktop.parallels.com.cdn.cloudflare.net,REJECT
+www.parallels.cn,REJECT
+www.parallels.com,REJECT
+reportus.parallels.com,REJECT
+parallels.com,REJECT
+parallels.cn,REJECT
+pax-manager.myparallels.com,REJECT
+myparallels.com,REJECT
+my.parallels.com,REJECT
