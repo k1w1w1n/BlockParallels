@@ -3,7 +3,7 @@
 #!system=mac
 
 [Rule]
-download.parallels.com,REJECT
+DOMAIN-SUFFIX,download.parallels.com,REJECT
 update.parallels.com,REJECT
 desktop.parallels.com,REJECT
 download.parallels.com.cdn.cloudflare.net,REJECT
