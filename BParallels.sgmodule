@@ -17,4 +17,3 @@ DOMAIN-SUFFIX,parallels.cn,REJECT
 DOMAIN-SUFFIX,pax-manager.myparallels.com,REJECT
 DOMAIN-SUFFIX,myparallels.com,REJECT
 DOMAIN-SUFFIX,my.parallels.com,REJECT
-DOMAIN-SUFFIX,12vpx.com,PROXY
